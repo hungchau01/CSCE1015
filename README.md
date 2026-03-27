@@ -7,3 +7,5 @@ hgc0048
 I forked the supermemory repository because that is a memory engine. Learn from conversation and forget expired informations.
 EUID
 hgc0048
+## EUID
+hgc0048
