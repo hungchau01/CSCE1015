@@ -5,3 +5,5 @@ hgc0048
 
 ## Open Source Discovery
 I forked the supermemory repository because that is a memory engine. Learn from conversation and forget expired informations.
+EUID
+hgc0048
